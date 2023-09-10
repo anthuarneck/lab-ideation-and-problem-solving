@@ -18,28 +18,28 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+> An app that visualizes audio from Spotify. Users will be able to customize the visualization.
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+> Anyone who listens to Spotify.
 
 - What problem does it solve?
 
-> Your answer here...
+> It extends Spotify in a way that’ll be more engaging. / It also allows users to enjoy their music in another format
 
 - Why is this problem important?
 
-> Your answer here...
+> Music is an artwork, and adding visuals can deepen that experience.
 
 - How will this application solve the problem?
 
-> Your answer here...
+> The visualizations will keep users more engaged and deepen user experience
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+> There are other tools that use audviz through mic, or with more limited features.
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+> Our project will utilize more of the data available to produce more detailed visualization and song info.
